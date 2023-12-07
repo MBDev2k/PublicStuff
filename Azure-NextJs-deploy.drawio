@@ -1,0 +1,27 @@
+<mxfile host="app.diagrams.net" modified="2023-12-07T23:49:49.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="F-EG3iJXzR9nKn0BoZKB" version="22.1.7" type="github">
+  <diagram name="Page-1" id="rBnmELckRUywtP9ieEaV">
+    <mxGraphModel dx="1242" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fwwclfGCpDOGsLirREcR-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Azure: Static Web App&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fwwclfGCpDOGsLirREcR-2" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;GitHub repo:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;https://github.com/vercel/next.js/tree/canary/examples/blog-starter&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fwwclfGCpDOGsLirREcR-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="fwwclfGCpDOGsLirREcR-1" target="fwwclfGCpDOGsLirREcR-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="280" as="sourcePoint" />
+            <mxPoint x="300" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwwclfGCpDOGsLirREcR-4" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Code Source&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fwwclfGCpDOGsLirREcR-3">
+          <mxGeometry x="-0.025" y="4" relative="1" as="geometry">
+            <mxPoint y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
